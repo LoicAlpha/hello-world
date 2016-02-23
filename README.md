@@ -1,2 +1,3 @@
 # hello-world
-Hello Word project
+This is my first hello-word project using GitHub!!
+
